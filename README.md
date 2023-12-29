@@ -1,0 +1,1 @@
+Estou aprendendo Git e GitHub, então não sei o que escrever aqui, mas está dando certo, meu professor é o Giovanni Trevisan, mais conhecido como o meu namorado, estamos em um intensivo para aprender Back-end. 
